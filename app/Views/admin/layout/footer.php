@@ -1,10 +1,11 @@
 </div>
-</div>
-              <!-- /.card-body -->
+<!-- /.card-body -->
               <div class="card-footer">
                 Page rendered: {elapsed_time} | Versi Framework: <?= CodeIgniter\CodeIgniter::CI_VERSION ?>
               </div>
               <!-- /.card-footer-->
+</div>
+              
             </div>
             <!-- /.card -->
           </div>
